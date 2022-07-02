@@ -7,7 +7,7 @@ namespace Module3
         static void Main(string[] args)
         {
             string MyName;
-            MyName = "Jane";
+            MyName = "Michel";
             Console.WriteLine(MyName);
         }
     }
